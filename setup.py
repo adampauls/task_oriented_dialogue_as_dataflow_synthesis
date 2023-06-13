@@ -19,7 +19,7 @@ setup(
         "sexpdata==0.0.3",
         "pandas==2.0.2",
         "spacy==3.5.3",
-        "statsmodels==0.11.1",
+        "statsmodels==0.14.0",
         "cached-property==1.5.1",
     ],
     extra_requires={
